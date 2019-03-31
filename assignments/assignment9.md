@@ -12,6 +12,10 @@ where
     customers.city = offices.city;
 ```
 
+```math
+y=5
+```
+
 1. Rewrite it as an expression in relational algebra
 2. Add row counts to the subexpressions
 3. Rewrite to a better expression
